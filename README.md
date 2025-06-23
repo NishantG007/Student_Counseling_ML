@@ -1,6 +1,6 @@
 # Student Counseling Predictor 🧠
 
-![Student Counseling Predictor](./Student_Counseling_Predictor.png)
+![Depression Awareness](./Depressed.png)
 
 ## About the Project 🚀
 This project aims to assist psychologists and university mental health professionals in the early detection of students at risk of depression. The primary goal is to create a lightweight tool for rapid mental health screening, not to replace psychologists, but to support their decision-making process and enable timely interventions. Using machine learning, the system classifies students based on risk levels derived from surveys and behaviour-related data.
@@ -27,7 +27,7 @@ The dataset used for this project was sourced from Kaggle:
 - Visual representation of feature importance aids in psychological interpretation.
 
 ## Conclusion 🚀
-The Student Counselling Predictor is a practical tool for early mental health risk detection in academic settings. With the help of machine learning models and a Flask-based web interface, the system provides a clear, interpretable prediction of whether a student is at mental risk or not. This enables psychologists and institutions to act early, reducing the chance of long-term negative outcomes.
+The Student Counseling Predictor is a practical tool for early mental health risk detection in academic settings. With the help of machine learning models and a Flask-based web interface, the system provides a clear, interpretable prediction of whether a student is at mental risk or not. This enables psychologists and institutions to act early, reducing the chance of long-term negative outcomes.
 
 ## How to use this Project 📍
 1. Download or clone the project folder.
@@ -35,6 +35,15 @@ The Student Counselling Predictor is a practical tool for early mental health ri
 3. Launch a **Jupyter Notebook** or terminal.
 4. Make sure all dependencies are installed (`Flask`, `scikit-learn`, `pandas`, etc.).
 5. Run the Flask application using:
-
 ```bash
 python app.py
+# Terminal will display:
+# * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+## About the Author
+- **Name**: Nishant Gupta
+- **Email**: Guptanishant0712@gmail.com
+- **Linkedin**: [Nishant Gupta](https://www.linkedin.com/in/nishantgupta07/)
+
+
+
